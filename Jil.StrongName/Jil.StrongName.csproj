@@ -55,6 +55,7 @@
     <PackageReleaseNotes>Numerous bug fixes</PackageReleaseNotes>
     <PackageId>Jil.StrongName</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/kevin-montrose/Jil.git</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Properties\Jil.StrongName.snk" />
